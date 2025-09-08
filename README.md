@@ -9,6 +9,8 @@ Wires, transformers, capacitors!
 
 # Fork Information:
 ## Planed Features:
- - Make water mill work only in river/ocean biomes.
- - MAYBE make pumps and conveyors work only when with IF.
- - (i forget other plans lol)
+- Make water mill work only in river/ocean biomes.
+- Add animation to blast furnace pre-heater.
+- Add some limitations to windmill (Work only in some dimensions, need a vision to sky, etc.)
+- (MAYBE) make pumps and conveyors work only when with IF.
+- (i forget other plans lol)
